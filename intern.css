@@ -10,3 +10,13 @@ img{
     width:150px;
     
 }
+a:hover {
+    text-decoration: none;
+    color: beige;
+}
+a:visited {
+    color: black;
+}
+a:link {
+    color: brown;
+}
